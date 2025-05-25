@@ -20,7 +20,7 @@ This web application generates secure passwords using a customizable interface. 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/chintamani-pala/password-generator.git
+   git clone https://github.com/Bibhurath89/password-generator.git
     ```
 2. **Open index.html in a Web Browser:**
      - **After cloning, open index.html in any modern web browser.**
@@ -32,8 +32,6 @@ This web application generates secure passwords using a customizable interface. 
 # SweetAlert2 Integration
   - **SweetAlert2: A beautiful, responsive, customizable, and accessible replacement for JavaScript's popup boxes.**
   -  **Alerts: SweetAlert2 is used for displaying alerts and messages to users.**
-# Screenshots
-  ![image](https://github.com/chintamani-pala/password-generator/assets/111286013/45c28bb8-2ac9-4241-9f6c-eb1b1f4c5683)
 # Contributing
   **Contributions are welcome! Feel free to fork this repository, make improvements, and submit a pull request.**
 # Credits
